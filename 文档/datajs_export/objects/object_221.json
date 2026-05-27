@@ -1,0 +1,31 @@
+[
+  "t221",
+  14,
+  false,
+  [],
+  2,
+  0,
+  [
+    "images/ground_enviroment_tilemap.png",
+    19472,
+    0
+  ],
+  null,
+  [
+    [
+      "NoSave",
+      29,
+      909616130069997
+    ],
+    [
+      "DestroyOutsideLayout",
+      23,
+      247322363131735
+    ]
+  ],
+  false,
+  false,
+  8395206774260716,
+  [],
+  []
+]

@@ -1,0 +1,31 @@
+[
+  "t746",
+  13,
+  false,
+  [],
+  1,
+  1,
+  [
+    "images/gui_heat_text.png",
+    364,
+    2
+  ],
+  null,
+  [
+    [
+      "Pin",
+      20,
+      113206648208790
+    ]
+  ],
+  false,
+  false,
+  583050895911823,
+  [
+    [
+      "hsladjust",
+      "AdjustHSL"
+    ]
+  ],
+  null
+]

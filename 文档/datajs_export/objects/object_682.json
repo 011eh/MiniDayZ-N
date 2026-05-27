@@ -1,0 +1,26 @@
+[
+  "t682",
+  14,
+  false,
+  [],
+  1,
+  0,
+  [
+    "images/ground_lvl3_tilemap.png",
+    75838,
+    0
+  ],
+  null,
+  [
+    [
+      "DestroyOutsideLayout",
+      23,
+      225319965855646
+    ]
+  ],
+  false,
+  false,
+  520673340449429,
+  [],
+  []
+]

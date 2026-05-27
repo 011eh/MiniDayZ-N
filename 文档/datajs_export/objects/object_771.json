@@ -1,0 +1,26 @@
+[
+  "t771",
+  14,
+  false,
+  [],
+  1,
+  0,
+  [
+    "images/ground_lvl4_tilemap.png",
+    87916,
+    0
+  ],
+  null,
+  [
+    [
+      "DestroyOutsideLayout",
+      23,
+      534660351265853
+    ]
+  ],
+  false,
+  false,
+  492391687230407,
+  [],
+  []
+]
