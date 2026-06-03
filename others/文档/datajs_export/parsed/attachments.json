@@ -1,0 +1,22 @@
+{
+  "_note": "配件挂载在武器实例变量上：iv[16]=瞄准镜槽, iv[17]=枪口槽, iv[18]=弹带/枪托槽。效果解码自开火与装卸函数。",
+  "scope_slot_iv16": {
+    "1": {"item_id": 76, "name": "RDS scope",        "bullet_penetration_bonus": 5},
+    "2": {"item_id": 77, "name": "PU scope",         "bullet_penetration_bonus": null},
+    "3": {"item_id": 78, "name": "PSO-1 scope",      "bullet_penetration_bonus": 15},
+    "4": {"item_id": 79, "name": "ACOG scope",       "bullet_penetration_bonus": 10},
+    "5": {"item_id": 98, "name": "Longrange Scope",  "bullet_penetration_bonus": 30},
+    "_effect": "瞄准镜提升瞄准范围, 并给子弹增加穿透(iv[9]), 穿透值随镜种与武器略有差异"
+  },
+  "muzzle_slot_iv17": {
+    "1": {"item_id": 80, "name": "Silencer 5.45"},
+    "2": {"item_id": 81, "name": "Silencer 5.56"},
+    "3": {"item_id": 90, "name": "Choke"},
+    "_effect": "消音器: 静音枪声 + 对AI噪声范围大幅降低(音频范围 -30 vs 普通 5); 扼流圈(Choke): 收紧霰弹散布。装/卸均触发 set_wpn_dispersion_f 重算散布。"
+  },
+  "belt_slot_iv18": {
+    "1": {"item_id": 83, "name": "Bandolier"},
+    "2": {"item_id": 89, "name": "Magpull"},
+    "_effect": "弹带/快速弹匣: 加快换弹/扩展携弹。"
+  }
+}

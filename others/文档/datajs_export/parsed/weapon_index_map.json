@@ -1,0 +1,20 @@
+{
+  "_note": "枪械内部索引(玩家 iv[1])→武器，依据开火音效解码。特征音独特者可确定；多把自动武器/手枪共用静音音效，标 uncertain。可与 weapon_dispersion.json 的 firearm_by_index_iv1 联用。",
+  "2":  "Mosin Nagant",
+  "4":  "IZH-43",
+  "6":  "AKM",
+  "8":  "SKS",
+  "10": "L85 (推测)",
+  "11": "Remington 870",
+  "13": "Crossbow",
+  "14": "Improvised Bow",
+  "16": "Sporter 22",
+  "17": "Repeater",
+  "18": "SVD",
+  "19": "MP5K",
+  "21": "UMP-45",
+  "22": "AK 变体 (akm_3 音效, 可能 AK-74/RPK)",
+  "24": "Saiga-12",
+  "29": "SV-98",
+  "_uncertain_shared_silenced_sound": [3,5,7,23,25,26,27,28,30]
+}

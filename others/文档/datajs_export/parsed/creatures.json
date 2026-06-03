@@ -1,0 +1,392 @@
+{
+ "zed_normal_skin1": {
+  "type_index": 197,
+  "instance_vars_default": [
+   60,
+   0,
+   1,
+   0,
+   60,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_army_skin1": {
+  "type_index": 212,
+  "instance_vars_default": [
+   100,
+   0,
+   2,
+   0,
+   100,
+   0,
+   0,
+   0,
+   0,
+   20,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_fast_skin1": {
+  "type_index": 394,
+  "instance_vars_default": [
+   80,
+   0,
+   3,
+   0,
+   80,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "wolf_skin": {
+  "type_index": 469,
+  "instance_vars_default": [
+   0,
+   50,
+   0,
+   0,
+   -1,
+   0,
+   50
+  ]
+ },
+ "deer_skin": {
+  "type_index": 472,
+  "instance_vars_default": [
+   0,
+   0,
+   80,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_normal_skin2": {
+  "type_index": 575,
+  "instance_vars_default": [
+   60,
+   0,
+   1,
+   0,
+   60,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_normal_skin3": {
+  "type_index": 576,
+  "instance_vars_default": [
+   60,
+   0,
+   1,
+   0,
+   60,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_army_skin2": {
+  "type_index": 577,
+  "instance_vars_default": [
+   100,
+   0,
+   2,
+   0,
+   100,
+   0,
+   0,
+   0,
+   0,
+   20,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_army_skin3": {
+  "type_index": 578,
+  "instance_vars_default": [
+   100,
+   0,
+   2,
+   0,
+   100,
+   0,
+   0,
+   0,
+   0,
+   20,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_normal_skin4": {
+  "type_index": 579,
+  "instance_vars_default": [
+   60,
+   0,
+   1,
+   0,
+   60,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_normal_skin5": {
+  "type_index": 580,
+  "instance_vars_default": [
+   60,
+   0,
+   1,
+   0,
+   60,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_fast_skin2": {
+  "type_index": 581,
+  "instance_vars_default": [
+   80,
+   0,
+   3,
+   0,
+   80,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_fast_skin3": {
+  "type_index": 582,
+  "instance_vars_default": [
+   80,
+   0,
+   3,
+   0,
+   80,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "rabbit_skin": {
+  "type_index": 609,
+  "instance_vars_default": [
+   0,
+   0,
+   5,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "crow_skin": {
+  "type_index": 687,
+  "instance_vars_default": [
+   0,
+   0
+  ]
+ },
+ "zed_screamer_skin": {
+  "type_index": 710,
+  "instance_vars_default": [
+   0,
+   0,
+   50,
+   0,
+   0,
+   -1,
+   0,
+   50
+  ]
+ },
+ "zed_normal_skin(80hp)": {
+  "type_index": 712,
+  "instance_vars_default": [
+   80,
+   0,
+   1,
+   0,
+   80,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_buried_skin": {
+  "type_index": 716,
+  "instance_vars_default": [
+   60,
+   0,
+   6,
+   0,
+   60,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_shooter_skin1(125hp)": {
+  "type_index": 723,
+  "instance_vars_default": [
+   100,
+   0,
+   4,
+   0,
+   100,
+   0,
+   0,
+   0,
+   0,
+   20,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_shooter_skin(shotgun_175hp)": {
+  "type_index": 726,
+  "instance_vars_default": [
+   100,
+   0,
+   4,
+   0,
+   175,
+   0,
+   0,
+   0,
+   0,
+   20,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_fast_skin(120hp)": {
+  "type_index": 778,
+  "instance_vars_default": [
+   120,
+   0,
+   3,
+   0,
+   120,
+   0,
+   0,
+   0,
+   0,
+   10,
+   0,
+   0,
+   -1,
+   0
+  ]
+ },
+ "zed_tank_skin": {
+  "type_index": 847,
+  "instance_vars_default": [
+   1000,
+   1000,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "zed_shooter_puncher_skin": {
+  "type_index": 885,
+  "instance_vars_default": [
+   100,
+   0,
+   4,
+   0,
+   100,
+   0,
+   0,
+   0,
+   0,
+   20,
+   0,
+   0,
+   -1,
+   0
+  ]
+ }
+}

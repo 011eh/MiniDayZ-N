@@ -1,0 +1,228 @@
+{
+ "1": {
+  "name": "Canned beans",
+  "hunger": 30,
+  "water": 5
+ },
+ "2": {
+  "name": "Canned tuna",
+  "hunger": 20
+ },
+ "3": {
+  "name": "Tactical bacon",
+  "hunger": 35
+ },
+ "4": {
+  "name": "Rice",
+  "hunger": 65
+ },
+ "5": {
+  "name": "Tomato",
+  "hunger": 15,
+  "water": 5
+ },
+ "6": {
+  "name": "Apple",
+  "hunger": 15,
+  "water": 5
+ },
+ "7": {
+  "name": "Banana",
+  "hunger": 15,
+  "water": 5
+ },
+ "8": {
+  "name": "Pipsi",
+  "water": 30
+ },
+ "9": {
+  "name": "Spite",
+  "water": 30
+ },
+ "10": {
+  "name": "Kvas",
+  "water": 50
+ },
+ "18": {
+  "name": "Bandage",
+  "flags": [
+   "stop_bleed"
+  ]
+ },
+ "19": {
+  "name": "Blood bag",
+  "health": 50,
+  "flags": [
+   "health_regen_cd"
+  ]
+ },
+ "25": {
+  "name": "Whiskey",
+  "warmth": 40,
+  "water": 20,
+  "flags": [
+   "health_regen_cd"
+  ]
+ },
+ "26": {
+  "name": "Rags",
+  "flags": [
+   "stop_bleed"
+  ]
+ },
+ "27": {
+  "name": "Cranberry",
+  "water": 15,
+  "hunger": 15
+ },
+ "28": {
+  "name": "Saline bag",
+  "health": 25,
+  "flags": [
+   "health_regen_cd"
+  ]
+ },
+ "29": {
+  "name": "Vitamins",
+  "flags": [
+   "vitamins"
+  ]
+ },
+ "30": {
+  "name": "Nota-Cola",
+  "water": 30
+ },
+ "31": {
+  "name": "Zucchini",
+  "hunger": 20,
+  "water": 20
+ },
+ "32": {
+  "name": "Bell pepper",
+  "water": 5,
+  "hunger": 20
+ },
+ "33": {
+  "name": "Orange",
+  "water": 15,
+  "hunger": 15
+ },
+ "34": {
+  "name": "Heatpack",
+  "warmth": 25
+ },
+ "46": {
+  "name": "Tetracycline",
+  "flags": [
+   "cure_infection"
+  ]
+ },
+ "54": {
+  "name": "Water bottle",
+  "water": 12.5
+ },
+ "55": {
+  "name": "Canteen",
+  "water": 25
+ },
+ "60": {
+  "name": "Raw steak",
+  "hunger": 25,
+  "water": 10,
+  "flags": [
+   "infection_risk"
+  ]
+ },
+ "61": {
+  "name": "Cooked steak",
+  "health": 15,
+  "hunger": 50,
+  "water": 10
+ },
+ "62": {
+  "name": "Nuko Cola",
+  "flags": [
+   "vitamins"
+  ]
+ },
+ "63": {
+  "name": "Energy drink",
+  "water": 20
+ },
+ "71": {
+  "name": "Rabbit meat",
+  "hunger": 25,
+  "water": 10,
+  "flags": [
+   "infection_risk"
+  ]
+ },
+ "72": {
+  "name": "Cooked rabbit meat",
+  "health": 30,
+  "hunger": 35,
+  "water": 10
+ },
+ "73": {
+  "name": "Cloudberry",
+  "water": 10,
+  "hunger": 10,
+  "flags": [
+   "vitamins"
+  ]
+ },
+ "74": {
+  "name": "Bilberry",
+  "water": 20,
+  "hunger": 10
+ },
+ "85": {
+  "name": "MRE ration",
+  "hunger": 40,
+  "water": 40
+ },
+ "91": {
+  "name": "Herring",
+  "hunger": 20,
+  "water": 10,
+  "flags": [
+   "infection_risk"
+  ]
+ },
+ "92": {
+  "name": "Salmon",
+  "hunger": 30,
+  "water": 15,
+  "flags": [
+   "infection_risk"
+  ]
+ },
+ "93": {
+  "name": "Ruffe",
+  "hunger": 20,
+  "water": 10,
+  "flags": [
+   "infection_risk"
+  ]
+ },
+ "94": {
+  "name": "Perch",
+  "hunger": 30,
+  "water": 15,
+  "flags": [
+   "infection_risk"
+  ]
+ },
+ "95": {
+  "name": "Small fish fillet",
+  "health": 15,
+  "hunger": 50,
+  "water": 10
+ },
+ "96": {
+  "name": "Big fish fillet",
+  "health": 15,
+  "hunger": 50,
+  "water": 10
+ }
+}
